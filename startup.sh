@@ -1,0 +1,1 @@
+docker compose up --scale trino-worker=3 -d

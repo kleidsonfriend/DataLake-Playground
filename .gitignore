@@ -41,3 +41,5 @@ local_airflow/pgdata
 dbeaver_conf/queries/.dbeaver
 
 jupyter/notebooks/.ipynb_checkpoints
+
+data/
